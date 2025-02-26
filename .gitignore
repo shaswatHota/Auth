@@ -1,0 +1,8 @@
+# Ignore environment variables
+server/firebase-admin.json
+client/.env
+
+
+# Node.js dependencies (if not using lock files)
+node_modules/
+package-lock.json
